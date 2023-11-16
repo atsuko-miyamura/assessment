@@ -94,8 +94,8 @@ function assessment(userName) {
 
 
 console.log(assessment('温子'));
-console.log(assessment('映理子'));
-console.log(assessment('萌'));
+console.log(assessment('村木'));
+console.log(assessment('折原'));
 
 // テストコード
 console.assert(
